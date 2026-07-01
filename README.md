@@ -15,4 +15,7 @@ Each day has a `dayXX_topic.py` file with the assignments as comments. Write you
 
 Keep `cheatsheet.py` in the root — add snippets for syntax you blanked on after each session.
 
-See [PLAN.md](PLAN.md) for the full plan.
+## Files
+
+- [PLAN.md](PLAN.md) — full 2-week plan with all assignments
+- [RESOURCES.md](RESOURCES.md) — curated resources for learning and practice
